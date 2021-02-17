@@ -19,13 +19,13 @@
           <div class="items-center flex flex-wrap">
             <div class="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
               <div class="pr-12">
-                <h1 class="text-white font-semibold text-5xl">
-                  Sila HiTech LTD.
+                <h1 class="text-white  font-semibold text-5xl">
+                  Sila HiTech Ltd
                 </h1>
                 <p class="mt-4 text-lg text-gray-300">
-                  This is a simple example of a Landing Page of Sila HITech to show you can build using
-                   we have bought the domain. This is a simple template that will be  used as a placeholder
-                  until make our own design.
+                  Sila Hitech is a startup private owned company in Ethiopia which is launching many apps to solve problems for
+                  different kinds of business issues and make it easier to be able to use in any languages and works in a
+                  slow internet connection.
                 </p>
               </div>
             </div>
@@ -64,10 +64,14 @@
                   >
                     <i class="fas fa-award"></i>
                   </div>
-                  <h6 class="text-xl font-semibold">Awarded Agency</h6>
+                  <h6 class="text-xl font-semibold">Our Mission</h6>
                   <p class="mt-2 mb-4 text-gray-600">
-                    Divide details about your product or agency work into parts.
-                    A paragraph describing a feature will be enough.
+                    Sila Hitech's mission here is to connect Ethiopia and other African countries with trade and
+                    to be more than just a state of the art technology in the world. And it is a great platform
+                    designed by the children of Ethiopia that aims to work diligently to make their products
+                    available to the African market and  world market enabling fast transactions with a
+                    secure payment system from small enterprises to large companies without wasting their time
+                    and money by reaching more than 10,000,000 ( Ten Million) active users on the platform in the coming 10 years.
                   </p>
                 </div>
               </div>
@@ -82,10 +86,10 @@
                   >
                     <i class="fas fa-retweet"></i>
                   </div>
-                  <h6 class="text-xl font-semibold">Free Revisions</h6>
+                  <h6 class="text-xl font-semibold">Our Goal</h6>
                   <p class="mt-2 mb-4 text-gray-600">
-                    Keep you user engaged by providing meaningful information.
-                    Remember that by this time, the user is curious.
+                    To be the only choice for solving problems,
+                    creating systems and grow small businesses in Africa, as well as in the World!
                   </p>
                 </div>
               </div>
@@ -100,10 +104,10 @@
                   >
                     <i class="fas fa-fingerprint"></i>
                   </div>
-                  <h6 class="text-xl font-semibold">Verified Company</h6>
+                  <h6 class="text-xl font-semibold">Our Vision</h6>
                   <p class="mt-2 mb-4 text-gray-600">
-                    Write a few lines about each one. A paragraph describing a
-                    feature will be enough. Keep you user engaged!
+                    To be Called the largest online shopping mall in our country and in Africa, it is the only platform where most of the public and private business and
+                    services can be accessed in one platform. It's about being able to get any app under our platform and make it accessible to more people
                   </p>
                 </div>
               </div>
@@ -117,20 +121,22 @@
                 <i class="fas fa-user-friends text-xl"></i>
               </div>
               <h3 class="text-3xl mb-2 font-semibold leading-normal">
-                Working with us is a pleasure
+                The Largest All in one app in Africa
               </h3>
               <p
                 class="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700"
               >
-                Work with us and get the products and treatment you deserve.Let us help
-                you use technology to make your life easier. We can't wait to work with you.
+                Platform plays a big role in connecting and Combining African trade with domestic
+                trade that allows the buyer and seller to trade quickly , easily and make a payment by well
+                Secured payment system, from any African country and all parts of Ethiopia in a matter of seconds.
               </p>
               <p
                 class="text-lg font-light leading-relaxed mt-0 mb-4 text-gray-700"
               >
-                Our services are in different sectors choose which ever you are intereseted in we are
-                more than happy to fulfill your needs. We have a team of developers, marketers, business analysts for any
-                enquiries you need in these areas.
+                It is also a technology company working with talented developers and engineers which stands for widening
+                the modern trading system all over Africa. Sila Hitech has an E-commerce platform whose business model
+                is way different than any other e-commerce platforms in Africa which rather empowering
+                small enterprises and helping them grow than making profit for their company.
               </p>
             </div>
             <div class="w-full md:w-4/12 px-4 mr-auto ml-auto">
@@ -159,9 +165,9 @@
                     Top Notch Services
                   </h4>
                   <p class="text-md font-light mt-2 text-white">
-                    The Arctic Ocean freezes every winter and much of the
-                    sea-ice then thaws every summer, and that process will
-                    continue whatever happens.
+                    Any Sila Hitech member seller and service provider is divided into two. They are the direct seller,
+                    the service provider and the supplier (second party). Direct sellers and service providers have their own products and services and are legal tax payers, while suppliers (second parties) are
+                    accredited under our organization and are able to legally sell and pay taxes and provide services
                   </p>
                 </blockquote>
               </div>
@@ -205,11 +211,11 @@
                 >
                   <i class="fas fa-rocket text-xl"></i>
                 </div>
-                <h3 class="text-3xl font-semibold">A growing company</h3>
+                <h3 class="text-3xl font-semibold">Objectives</h3>
                 <p class="mt-4 text-lg leading-relaxed text-gray-600">
-                  The extension comes with three pre-built pages to help you get
-                  started faster. You can change the text and images and you're
-                  good to go.
+                  As an online shop rental, we have come up with a key solution for those who are unable to pay the rent
+                  for the shop and do not have a suitable place to work,
+                  and who have a shop but have difficulty finding customers.
                 </p>
                 <ul class="list-none mt-6">
                   <li class="py-2">
@@ -222,7 +228,7 @@
                       </div>
                       <div>
                         <h4 class="text-gray-600">
-                          Carefully crafted components
+                          Help small enterprises grow and meet their customer easily
                         </h4>
                       </div>
                     </div>
@@ -236,7 +242,7 @@
                         ></span>
                       </div>
                       <div>
-                        <h4 class="text-gray-600">Amazing page examples</h4>
+                        <h4 class="text-gray-600"> Create jobs for many people</h4>
                       </div>
                     </div>
                   </li>
@@ -249,7 +255,7 @@
                         ></span>
                       </div>
                       <div>
-                        <h4 class="text-gray-600">Dynamic components</h4>
+                        <h4 class="text-gray-600">Decrease the number of unemployed people.</h4>
                       </div>
                     </div>
                   </li>
@@ -434,11 +440,11 @@
         <div class="container mx-auto px-4 lg:pt-24 lg:pb-64">
           <div class="flex flex-wrap text-center justify-center">
             <div class="w-full lg:w-6/12 px-4">
-              <h2 class="text-4xl font-semibold text-white">Build something</h2>
+              <h2 class="text-4xl font-semibold text-white">Executive summary</h2>
               <p class="text-lg leading-relaxed mt-4 mb-4 text-gray-500">
-                Put the potentially record low maximum sea ice extent tihs year
-                down to low ice. According to the National Oceanic and
-                Atmospheric Administration, Ted, Scambos.
+                Platform plays a big role in connecting and Combining African trade with
+                domestic trade that allows the buyer and seller to trade quickly , easily and make a payment by well Secured payment system,
+                from any African country and all parts of Ethiopia in a matter of seconds.
               </p>
             </div>
           </div>
@@ -450,11 +456,10 @@
                 <i class="fas fa-medal text-xl"></i>
               </div>
               <h6 class="text-xl mt-5 font-semibold text-white">
-                Excelent Services
+                Technologies we use
               </h6>
               <p class="mt-2 mb-4 text-gray-500">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                Big data ( Cloud computing). Lite version QR code scanning system Secured Payment system
               </p>
             </div>
             <div class="w-full lg:w-3/12 px-4 text-center">
@@ -464,11 +469,10 @@
                 <i class="fas fa-poll text-xl"></i>
               </div>
               <h5 class="text-xl mt-5 font-semibold text-white">
-                Grow your market
+                Credit and lending options
               </h5>
               <p class="mt-2 mb-4 text-gray-500">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                We will be offering a credit systems for our registered vendors who are in shortage of balance.
               </p>
             </div>
             <div class="w-full lg:w-3/12 px-4 text-center">
@@ -477,10 +481,10 @@
               >
                 <i class="fas fa-lightbulb text-xl"></i>
               </div>
-              <h5 class="text-xl mt-5 font-semibold text-white">Launch time</h5>
+              <h5 class="text-xl mt-5 font-semibold text-white">Return and Refund</h5>
               <p class="mt-2 mb-4 text-gray-500">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                We avoided excess amount of Return products by working on our product Stocks.
+                We optimize the ordering process as well as our vendors stock management to avoid mistakes
               </p>
             </div>
           </div>
