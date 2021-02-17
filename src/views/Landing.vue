@@ -66,9 +66,7 @@
                   </div>
                   <h6 class="text-xl font-semibold">Our Mission</h6>
                   <p class="mt-2 mb-4 text-gray-600">
-                    Sila Hitech's mission here is to connect Ethiopia and other African countries with trade and
-                    to be more than just a state of the art technology in the world. And it is a great platform
-                    designed by the children of Ethiopia that aims to work diligently to make their products
+                    Sila Hitech is great platform designed by the children of Ethiopia that aims to work diligently to make their products
                     available to the African market and  world market enabling fast transactions with a
                     secure payment system from small enterprises to large companies without wasting their time
                     and money by reaching more than 10,000,000 ( Ten Million) active users on the platform in the coming 10 years.
@@ -282,7 +280,7 @@
               <div class="px-6">
                 <img
                   alt="..."
-                  src="../assets/img/team-1-800x800.jpg"
+                  src="../assets/img/Fuad.jpg"
                   class="shadow-lg rounded-full max-w-full mx-auto"
                   style="max-width: 120px;"
                 />
@@ -316,7 +314,7 @@
               <div class="px-6">
                 <img
                   alt="..."
-                  src="../assets/img/team-2-800x800.jpg"
+                  src="../assets/img/sel.jpg"
                   class="shadow-lg rounded-full max-w-full mx-auto"
                   style="max-width: 120px;"
                 />
@@ -345,7 +343,7 @@
               <div class="px-6">
                 <img
                   alt="..."
-                  src="../assets/img/team-3-800x800.jpg"
+                  src="../assets/img/mel.jpg"
                   class="shadow-lg rounded-full max-w-full mx-auto"
                   style="max-width: 120px;"
                 />
@@ -379,7 +377,7 @@
               <div class="px-6">
                 <img
                   alt="..."
-                  src="../assets/img/team-4-470x470.png"
+                  src="../assets/img/sami.jpg"
                   class="shadow-lg rounded-full max-w-full mx-auto"
                   style="max-width: 120px;"
                 />
