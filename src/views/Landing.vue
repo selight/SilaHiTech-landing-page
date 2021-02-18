@@ -280,7 +280,7 @@
               <div class="px-6">
                 <img
                   alt="..."
-                  src="../assets/img/Fuad.jpg"
+                  src="../assets/img/fudi.jpg"
                   class="shadow-lg rounded-full max-w-full mx-auto"
                   style="max-width: 120px;"
                 />
