@@ -26,7 +26,7 @@
           <li class="flex items-center">
             <a
               class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-              href="#pablo"
+              href="https://m.facebook.com/Silahitechltd"
               ><i
                 class="lg:text-gray-300 text-gray-500 fab fa-facebook text-lg leading-lg "
               ></i
@@ -36,7 +36,7 @@
           <li class="flex items-center">
             <a
               class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-              href="#pablo"
+              href="https://twitter.com/HitechSila"
               ><i
                 class="lg:text-gray-300 text-gray-500 fab fa-twitter text-lg leading-lg "
               ></i
@@ -46,11 +46,11 @@
           <li class="flex items-center">
             <a
               class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-              href="#pablo"
+              href="https://www.linkedin.com/in/sila-hitech-plc-b68727207?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAXcL1uy9SmC5eh7%2Bj6xV1w%3D%3D"
               ><i
-                class="lg:text-gray-300 text-gray-500 fab fa-github text-lg leading-lg "
+                class="lg:text-gray-300 text-gray-500 fab fa-linkedin text-lg leading-lg "
               ></i
-              ><span class="lg:hidden inline-block ml-2">Star</span></a
+              ><span class="lg:hidden inline-block ml-2">LinkedIn</span></a
             >
           </li>
 
