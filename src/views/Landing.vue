@@ -281,7 +281,7 @@
             </div>
           </div>
           <div class="flex flex-wrap">
-            <div class="w-full md:w-6/12 lg:w-4/12 lg:mb-0 mb-12 px-4">
+            <div class="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
               <div class="px-6">
                 <img
                   alt="..."
@@ -292,7 +292,7 @@
                 <div class="pt-6 text-center">
                   <h5 class="text-xl font-bold">Fuad Abdela</h5>
                   <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
-                    CEO/Project Manager
+                    CEO/ Founder/Project Manager
                   </p>
                   <div class="mt-6">
                     <button
@@ -315,7 +315,7 @@
                 </div>
               </div>
             </div>
-            <div class="w-full md:w-6/12 lg:w-4/12 lg:mb-0 mb-12 px-4">
+            <div class="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
               <div class="px-6">
                 <img
                   alt="..."
@@ -344,7 +344,7 @@
                 </div>
               </div>
             </div>
-            <div class="w-full md:w-6/12 lg:w-4/12 lg:mb-0 mb-12 px-4">
+            <div class="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
               <div class="px-6">
                 <img
                   alt="..."
@@ -356,6 +356,40 @@
                   <h5 class="text-xl font-bold">Melica Omer</h5>
                   <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
                     CEO/Frontend Developer
+                  </p>
+                  <div class="mt-6">
+                    <button
+                      class="bg-red-600 text-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
+                      type="button"
+                    >
+                      <i class="fab fa-google"></i></button
+                    ><button
+                      class="bg-blue-400 text-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
+                      type="button"
+                    >
+                      <i class="fab fa-twitter"></i></button
+                    ><button
+                      class="bg-gray-800 text-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
+                      type="button"
+                    >
+                      <i class="fab fa-instagram"></i>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+               <div class="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
+              <div class="px-6">
+                <img
+                  alt="..."
+                  src="../assets/img/mel.jpg"
+                  class="shadow-lg rounded-full max-w-full mx-auto"
+                  style="max-width: 120px;"
+                />
+                <div class="pt-6 text-center">
+                  <h5 class="text-xl font-bold">Melica Omer</h5>
+                  <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
+                    CEO/Data Scientiest 
                   </p>
                   <div class="mt-6">
                     <button
